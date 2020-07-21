@@ -239,6 +239,16 @@
       "model":"vivo 1915",
       "manufacturer":"Vivo",
       "default": false
+    },
+    {
+      "coefficient1": 0,719071219,
+      "coefficient2": 7,874761211,
+      "coefficient3": 0,2458870264,
+      "version":"7",
+      "build_number":"NPJ25.93-14.7",
+      "model":"Moto G (4)",
+      "manufacturer":"Motorola",
+      "default": false
     }
   ]
 }
