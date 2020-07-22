@@ -161,6 +161,16 @@
       "default": false
     },
     {
+      "coefficient1": 2.302309864,
+      "coefficient2": 5.328744379,
+      "coefficient3": 0.1285807401,
+      "version":"",
+      "build_number":"",
+      "model":"P30 Lite",
+      "manufacturer":"Huawei",
+      "default": false
+    },
+    {
       "coefficient1": 0.4926886193,
       "coefficient2": 7.118032712,
       "coefficient3": -0.09823419791,
