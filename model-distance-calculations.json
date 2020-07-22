@@ -2,6 +2,15 @@
   "models":
   [
     {
+      "coefficient1": 1.03042,
+      "coefficient2": 6.64749,
+      "coefficient3": 0.44825,
+      "version":"",
+      "build_number":"",
+      "model":"",
+      "manufacturer":"LGE"
+    },
+    {
       "coefficient1": 0.42093,
       "coefficient2": 6.9476,
       "coefficient3": 0.54992,
@@ -21,8 +30,28 @@
       "default": true
     },
     {
-      "coefficient1": 0.9401940951,
-      "coefficient2": 6.170094565,
+      "coefficient1": 2.24939,
+      "coefficient2": 6.04728,
+      "coefficient3": 0.24490,
+      "version":"6",
+      "build_number":"MDB08L",
+      "model":"Nexus 5X",
+      "manufacturer":"LGE",
+      "default": false
+    },
+    {
+      "coefficient1": 0.61518,
+      "coefficient2": 7.42674,
+      "coefficient3": -0.06911,
+      "version":"",
+      "build_number":"",
+      "model":"",
+      "manufacturer":"Motorola",
+      "default": false
+    },
+    {
+      "coefficient1": 0.94019,
+      "coefficient2": 6.17009,
       "coefficient3": 0.0,
       "version":"5.0.2",
       "build_number":"LXG22.67-7.1",
@@ -31,9 +60,9 @@
       "default": false
     },
     {
-      "coefficient1": 0.1862616782,
-      "coefficient2": 8.235367435,
-      "coefficient3": -0.45324519,
+      "coefficient1": 0.18626,
+      "coefficient2": 8.23536,
+      "coefficient3": -0.45324,
       "version":"6.0",
       "build_number":"MPE24.49-18",
       "model":"XT1092",
@@ -41,9 +70,29 @@
       "default": false
     },
     {
-      "coefficient1": 1.116326848,
-      "coefficient2": 6.430458808,
-      "coefficient3": -0.116326848,
+      "coefficient1": 0.71907,
+      "coefficient2": 7.87476,
+      "coefficient3": 0.24588,
+      "version":"7",
+      "build_number":"NPJ25.93-14.7",
+      "model":"Moto G (4)",
+      "manufacturer":"Motorola",
+      "default": false
+    },
+    {
+      "coefficient1": 0.82272,
+      "coefficient2": 6.74542,
+      "coefficient3": -0.10794,
+      "version":"",
+      "build_number":"",
+      "model":"",
+      "manufacturer":"Apple",
+      "default": false
+    },
+    {
+      "coefficient1": 1.11633,
+      "coefficient2": 6.43046,
+      "coefficient3": -0.11633,
       "version":"",
       "build_number":"",
       "model":"iPhone X",
@@ -51,49 +100,9 @@
       "default": false
     },
     {
-      "coefficient1": 0.4853971528,
-      "coefficient2": 7.13003613,
-      "coefficient3": -0.09796154459,
-      "version":"",
-      "build_number":"",
-      "model":"SM-N960F",
-      "manufacturer":"Samsung",
-      "default": false
-    },
-    {
-      "coefficient1": 0.1088164853,
-      "coefficient2": 8.262655607,
-      "coefficient3": -0.07711352312,
-      "version":"",
-      "build_number":"",
-      "model":"SM-G950F",
-      "manufacturer":"Samsung",
-      "default": false
-    },
-    {
-      "coefficient1": 0.6302333759,
-      "coefficient2": 6.917264635,
-      "coefficient3": -0.1029895491,
-      "version":"",
-      "build_number":"",
-      "model":"SM-G975F",
-      "manufacturer":"Samsung",
-      "default": false
-    },
-    {
-      "coefficient1": 1.889355403,
-      "coefficient2": 5.950675027,
-      "coefficient3": -0.1326480228,
-      "version":"",
-      "build_number":"",
-      "model":"SM-N975F",
-      "manufacturer":"Samsung",
-      "default": false
-    },
-    {
-      "coefficient1": 0.5291039683,
-      "coefficient2": 7.060376255,
-      "coefficient3": -0.0995601106,
+      "coefficient1": 0.52910,
+      "coefficient2": 7.06038,
+      "coefficient3": -0.09956,
       "version":"",
       "build_number":"",
       "model":"iPhone 6",
@@ -101,19 +110,59 @@
       "default": false
     },
     {
-      "coefficient1": 0.08574320273,
-      "coefficient2": 8.432353527,
-      "coefficient3": -0.07465120966,
+      "coefficient1": 0.60507,
+      "coefficient2": 7.26758,
+      "coefficient3": -0.09751,
       "version":"",
       "build_number":"",
-      "model":"LYA-L29",
-      "manufacturer":"Huawei",
+      "model":"",
+      "manufacturer":"Samsung",
       "default": false
     },
     {
-      "coefficient1": 0.351245326,
-      "coefficient2": 7.386564611,
-      "coefficient3": -0.09244001152,
+      "coefficient1": 0.48540,
+      "coefficient2": 7.13004,
+      "coefficient3": -0.09796,
+      "version":"",
+      "build_number":"",
+      "model":"SM-N960F",
+      "manufacturer":"Samsung",
+      "default": false
+    },
+    {
+      "coefficient1": 0.10882,
+      "coefficient2": 8.26266,
+      "coefficient3": -0.07711,
+      "version":"",
+      "build_number":"",
+      "model":"SM-G950F",
+      "manufacturer":"Samsung",
+      "default": false
+    },
+    {
+      "coefficient1": 0.63023,
+      "coefficient2": 6.91726,
+      "coefficient3": -0.10299,
+      "version":"",
+      "build_number":"",
+      "model":"SM-G975F",
+      "manufacturer":"Samsung",
+      "default": false
+    },
+    {
+      "coefficient1": 1.88936,
+      "coefficient2": 5.95068,
+      "coefficient3": -0.13265,
+      "version":"",
+      "build_number":"",
+      "model":"SM-N975F",
+      "manufacturer":"Samsung",
+      "default": false
+    },
+    {
+      "coefficient1": 0.35125,
+      "coefficient2": 7.38656,
+      "coefficient3": -0.09244,
       "version":"",
       "build_number":"",
       "model":"SM-A705MN",
@@ -121,69 +170,9 @@
       "default": false
     },
     {
-      "coefficient1": 0.4926886193,
-      "coefficient2": 7.118032712,
-      "coefficient3": -0.09823419791,
-      "version":"",
-      "build_number":"",
-      "model":"G8342",
-      "manufacturer":"Sony",
-      "default": false
-    },
-    {
-      "coefficient1": 0.2683786259,
-      "coefficient2": 7.594616064,
-      "coefficient3": -0.08834537853,
-      "version":"",
-      "build_number":"",
-      "model":"Mi A1",
-      "manufacturer":"Xiaomi",
-      "default": false
-    },
-    {
-      "coefficient1": 0.5823405548,
-      "coefficient2": 6.982237254,
-      "coefficient3": -0.1014075446,
-      "version":"",
-      "build_number":"",
-      "model":"Pixel 3a XL",
-      "manufacturer":"Google",
-      "default": false
-    },
-    {
-      "coefficient1": 0.8584632331,
-      "coefficient2": 6.657991406,
-      "coefficient3": -0.1097450981,
-      "version":"",
-      "build_number":"",
-      "model":"Pocophone F1",
-      "manufacturer":"Xiaomi",
-      "default": false
-    },
-    {
-      "coefficient1": 0.4993365969,
-      "coefficient2": 7.107223052,
-      "coefficient3": -0.09848015507,
-      "version":"",
-      "build_number":"",
-      "model":"Mi A2 Lite",
-      "manufacturer":"Xiaomi",
-      "default": false
-    },
-    {
-      "coefficient1": 0.1445464598,
-      "coefficient2": 8.057055725,
-      "coefficient3": -0.08029281015,
-      "version":"",
-      "build_number":"",
-      "model":"Nexus 5X",
-      "manufacturer":"LGE",
-      "default": false
-    },
-    {
-      "coefficient1": 0.1653551146,
-      "coefficient2": 7.958292524,
-      "coefficient3": -0.08190255984,
+      "coefficient1": 0.16536,
+      "coefficient2": 7.95829,
+      "coefficient3": -0.08190,
       "version":"",
       "build_number":"",
       "model":"SM-A107F",
@@ -191,39 +180,29 @@
       "default": false
     },
     {
-      "coefficient1": 0.6641238612,
-      "coefficient2": 6.873916808,
-      "coefficient3": -0.104068564,
+      "coefficient1": 1.04166,
+      "coefficient2": 6.84941,
+      "coefficient3": -0.01745,
       "version":"",
       "build_number":"",
-      "model":"CPH1909",
-      "manufacturer":"Oppo",
+      "model":"",
+      "manufacturer":"Huawei",
       "default": false
     },
     {
-      "coefficient1": 0.1608771159,
-      "coefficient2": 7.978527862,
-      "coefficient3": -0.08156817607,
+      "coefficient1": 0.08574,
+      "coefficient2": 8.43235,
+      "coefficient3": -0.07465,
       "version":"",
       "build_number":"",
-      "model":"RMX1911",
-      "manufacturer":"Oppo",
+      "model":"LYA-L29",
+      "manufacturer":"Huawei",
       "default": false
     },
     {
-      "coefficient1": 0.9070726937,
-      "coefficient2": 6.610856717,
-      "coefficient3": -0.1110553506,
-      "version":"",
-      "build_number":"",
-      "model":"Mi Max 3",
-      "manufacturer":"Xiaomi",
-      "default": false
-    },
-    {
-      "coefficient1": 0.7369136553,
-      "coefficient2": 6.787144405,
-      "coefficient3": -0.1062878986,
+      "coefficient1": 0.73691,
+      "coefficient2": 6.78714,
+      "coefficient3": -0.10629,
       "version":"",
       "build_number":"",
       "model":"YAL-L21",
@@ -231,14 +210,85 @@
       "default": false
     },
     {
-      "coefficient1": 0.4668996805,
-      "coefficient2": 7.161246558,
-      "coefficient3": -0.09726000433,
+      "coefficient1": 2.30231,
+      "coefficient2": 5.32874,
+      "coefficient3": 0.12858,
       "version":"",
       "build_number":"",
-      "model":"vivo 1915",
-      "manufacturer":"Vivo",
+      "model":"P30 Lite",
+      "manufacturer":"Huawei",
       "default": false
-    }
+    },
+    {
+      "coefficient1": 0.49269,
+      "coefficient2": 7.11803,
+      "coefficient3": -0.09823,
+      "version":"",
+      "build_number":"",
+      "model":"G8342",
+      "manufacturer":"Sony",
+      "default": false
+    },
+    {
+      "coefficient1": 0.63331,
+      "coefficient2": 6.99267,
+      "coefficient3": -0.10191,
+      "version":"",
+      "build_number":"",
+      "model":"",
+      "manufacturer":"Xiaomi",
+      "default": false
+    },
+    {
+      "coefficient1": 0.26838,
+      "coefficient2": 7.59462,
+      "coefficient3": -0.08835,
+      "version":"",
+      "build_number":"",
+      "model":"Mi A1",
+      "manufacturer":"Xiaomi",
+      "default": false
+    },
+    {
+      "coefficient1": 0.85846,
+      "coefficient2": 6.65799,
+      "coefficient3": -0.10975,
+      "version":"",
+      "build_number":"",
+      "model":"Pocophone F1",
+      "manufacturer":"Xiaomi",
+      "default": false
+    },
+    {
+      "coefficient1": 0.49934,
+      "coefficient2": 7.10722,
+      "coefficient3": -0.09848,
+      "version":"",
+      "build_number":"",
+      "model":"Mi A2 Lite",
+      "manufacturer":"Xiaomi",
+      "default": false
+    },
+    {
+      "coefficient1": 0.90707,
+      "coefficient2": 6.61086,
+      "coefficient3": -0.11106,
+      "version":"",
+      "build_number":"",
+      "model":"Mi Max 3",
+      "manufacturer":"Xiaomi",
+      "default": false
+    },
+    {
+      "coefficient1": 0.58234,
+      "coefficient2": 6.98223,
+      "coefficient3": -0.10141,
+      "version":"",
+      "build_number":"",
+      "model":"Pixel 3a XL",
+      "manufacturer":"Google",
+      "default": false
+    },    
+        
   ]
 }
